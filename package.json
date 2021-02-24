@@ -11,6 +11,7 @@
     "javascript-library": "github:hcslearning/javascript-library",
     "next": "10.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "typescript-library": "github:hcslearning/typescript-library"
   }
 }
